@@ -161,7 +161,3 @@ plots/
   07_hypnogram.png
 README.md
 ```
-
-## License
-
-This demo is provided as-is for educational and interview-preparation purposes.
